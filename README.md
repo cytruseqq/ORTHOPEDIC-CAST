@@ -26,7 +26,7 @@ Po nastawieniu złamania zastosowano dedykowane usztywnienie zapewniające prawi
 
 ## 🖼️ Galeria modelu
 
-### Widok od strony wewnętrznej
+### Widok od strony dłoniowej
 
 !\[Cast – widok 1](Photos/cast1.png)
 
